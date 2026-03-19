@@ -12,6 +12,7 @@
   "dependencies": {
     "fs": "^0.0.1-security",
     "inquirer": "^13.3.0",
-    "patch": "^0.0.1"
+    "patch": "^0.0.1",
+    "url": "^0.11.4"
   }
 }
